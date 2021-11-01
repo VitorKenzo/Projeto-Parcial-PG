@@ -14,11 +14,11 @@ Para executar o projeto, basta seguir os seguintes passos:
 - Com o projeto aberto basta clicar no símbolo "▶️" para executar e visualizar o projeto com a câmera inclusa
 
 ## Desenvolvimento
-O desenvolvimento foi bem repetitivo e direto ao ponto, após a configuração inicial do projeto (adicionando a câmera e telas verdes para servirem de base para os outros objetos), cada usuário selecionou um objeto do site "https://free3d.com/" e o importou no projeto após isso foi necessário fazer escala dos objetos afim de deixa-los em um tamanho desejável para adicionar a cena, a rotação para deixar os objetos na orientação desejada e a translação para posiciona-los como desejado na cena
+O desenvolvimento foi bem repetitivo e direto ao ponto, após a configuração inicial do projeto (adicionando a câmera e telas verdes para servirem de base para os outros objetos), cada usuário selecionou um objeto do site "https://free3d.com/" e o importou no projeto, após isso foi necessário fazer escala dos objetos afim de deixa-los em um tamanho desejável para adicionar a cena, a rotação para deixar os objetos na orientação desejada e a translação para posiciona-los como desejado na cena.
 
 ## Membros
-- Amanda Cárnio Pascon - 
+- Amanda Cárnio Pascon - 770981
 - Eduardo Ravagnani de Melo - 771004
 - Felipe Leite Kogus - 771006
-- Leonardo Valério Morales - 
+- Leonardo Valério Morales - 771030
 - Vitor Kenzo Pellegatti - 771066
