@@ -50,7 +50,7 @@ Neste projeto criamos 4 movimentos em 4 objetos diferentes, sendo pelo menos um 
 - Um movimento Idle da estátua maoi que executa ao iniciar a cena e permanece em loop, nesta animação é possível observar a estátua rotacionando horizontalmente enquanto flutua oscilando sua altura.
 - Um movimento que o macaco realiza um salto mortal para trás, apelidado de "MONKE FLIP", esta animação pode ser ativada pressionando a tecla "M", além disso, esta animação pode ser executada novamente sempre que o macaco terminar a animação anterior.
 - Um movimento em que o frango assado "salta" em direção ao veado e se fixa em um de seus chifres, esta animação pode ser ativada pressionando a tecla "A", uma vez que esta animação seja concluída ela não poderá ser executada novamente.
-- Um movimento em que o veado junto do frango fixado em seu chifre é abduzido, sendo elevado aos céus enquanto rotaciona horizontalmente, esta animação é ativada após a animação do ter terminado.
+- Um movimento em que o veado junto do frango fixado em seu chifre é abduzido, sendo elevado aos céus enquanto rotaciona horizontalmente, esta animação é ativada após a animação do frango ter terminado.
 
 ### Câmeras
 
