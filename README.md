@@ -12,10 +12,10 @@ Haveram dois metodos para executar o projeto, pelo unity e pelo navegador.
 
 Para executar o projeto pelo navegador, basta seguir os seguintes passos:
 
--Acessar o seguinte link https://chopsticks-user.itch.io/projeto-parcial-de-processamento-grafico
--Colocar a seguinte senha - ProcessamentoGrafico
--Por fim clique em run project
--O projeto demora para carregar da primeira vez (e esta um pouco travado, mas todos os comando devem funcionar sem problemas)
+- Acessar o seguinte link https://chopsticks-user.itch.io/projeto-parcial-de-processamento-grafico
+- Colocar a seguinte senha - ProcessamentoGrafico
+- Por fim clique em run project
+- O projeto demora para carregar da primeira vez (e esta um pouco travado, mas todos os comando devem funcionar sem problemas)
 
 Para executar o projeto pelo unity, basta seguir os seguintes passos:
 
