@@ -8,7 +8,16 @@ Para o projeto foi utilizado o unity e suas ferramentas, foram posicionados 5 ob
 
 ## Como Executar
 
-Para executar o projeto, basta seguir os seguintes passos:
+Haveram dois metodos para executar o projeto, pelo unity e pelo navegador.
+
+Para executar o projeto pelo navegador, basta seguir os seguintes passos:
+
+-Acessar o seguinte link https://chopsticks-user.itch.io/projeto-parcial-de-processamento-grafico
+-Colocar a seguinte senha - ProcessamentoGrafico
+-Por fim clique em run project
+-O projeto demora para carregar da primeira vez (e esta um pouco travado, mas todos os comando devem funcionar sem problemas)
+
+Para executar o projeto pelo unity, basta seguir os seguintes passos:
 
 - Clonar o repositório
 - Acessar a pasta "Projeto Parcial 3 e 4" (O Nome esta assim pois o PP3 será aproveitado para o PP4
